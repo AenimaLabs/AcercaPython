@@ -6,9 +6,24 @@ body{
 }
 
 img{
-    width: 200px;
+    width: 217px;
+    height: 61px;
+    display: block;
 }
 #nav-menu li{
-display: inline;
-width: 150px;
+display: inline-block;
+width: 120px;
+height: fit-content;
+margin: 10px;
+font-family: sans-serif;
+
+
+}
+#nav-menu{
+    background-color: #1e2933;
+    border-bottom: 1px solid #1f3b47;
+    margin-left: 70px;
+    width: auto;
+    
+
 }
