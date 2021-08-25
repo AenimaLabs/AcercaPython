@@ -1,0 +1,14 @@
+body{
+    width: 970px;
+    background-color: #3776ab;
+    color: #fff;
+    text-shadow: none;
+}
+
+img{
+    width: 200px;
+}
+#nav-menu li{
+display: inline;
+width: 150px;
+}
